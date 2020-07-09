@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hey there I'm Christopher (They/Them) 👋
 
+If you want to know more about me you can check out the [About](https://thatamazingprogrammer.com/about/) section of my website.
+
+## Current Projects
+I'm not working on anything specific, yet.
+
+For now you can checkout a [curated list of my projects](https://github.com/Programazing/Start_Here).
+
+## Getting in Touch
+
+The best way to connect is through [Twitter](https://twitter.com/Programazing) or [Email](mailto:chris@thatamazingprogrammer.com).
 <!--
 **Programazing/Programazing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
