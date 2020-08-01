@@ -9,7 +9,8 @@ For now you can checkout a [curated list of my projects](https://github.com/Prog
 
 ## Getting in Touch
 
-The best way to connect is through [Twitter](https://twitter.com/Programazing) or [Email](mailto:chris@thatamazingprogrammer.com).
+[![Twitter](https://github.com/Programazing/ColoredBadges/blob/master/png/social/twitter.png)](https://twitter.com/Programazing) [![LinkedIn](https://github.com/Programazing/ColoredBadges/blob/master/png/social/linkedin.png)](https://www.linkedin.com/in/christophercharlesjohnson/) 
+
 <!--
 **Programazing/Programazing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
