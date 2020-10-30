@@ -1,4 +1,4 @@
-### Hey there I'm Christopher (They/Them) 👋
+### Hey there I'm Christopher (They/Them) :rainbow_flag: :wave:
 
 If you want to know more about me you can check out the [About](https://thatamazingprogrammer.com/about/) section of my website.
 
