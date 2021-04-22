@@ -9,7 +9,7 @@ For now you can checkout a [curated list of my projects](https://github.com/Prog
 
 ## Where you can find me
 
-[![Twitter](https://img.shields.io/badge/Programazing-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Programazing) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christophercharlesjohnson/) [![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.linkedin.com/in/christophercharlesjohnson/) 
+[![Twitter](https://img.shields.io/badge/Programazing-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Programazing) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christophercharlesjohnson/) [![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/programazing) 
 
 ## What I use to make things
 
